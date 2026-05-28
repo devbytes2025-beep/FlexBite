@@ -1,0 +1,6 @@
+{
+  "name": "FlexBite - AI Calorie & Protein Tracker",
+  "description": "Interactive protein and calorie tracker with AI food photo recognition, onboarding metrics, and calendar workout markings, designed with a vibrant Gen Z aesthetic.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
